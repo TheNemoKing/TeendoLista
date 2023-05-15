@@ -1,1 +1,4 @@
 #TeendoLista
+
+-semmi
+-semmi
