@@ -1,4 +1,4 @@
-#TeendoLista
+# TeendoLista
 
--semmi
--semmi
+- semmi
+- semmi
