@@ -1,1 +1,1 @@
-"#TeendoLista" 
+#TeendoLista
