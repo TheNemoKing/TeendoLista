@@ -1,4 +1,1 @@
 # TeendoLista
-
-- semmi
-- semmi
